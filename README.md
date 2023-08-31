@@ -1,6 +1,6 @@
 ## Hi there 🥰
 
-I am [@6ueh0ey2](https://6ueh0ey2.github.io/), an ordinary university student. You can also call me **杨墨**, nice to meet you. 😊
+I am [@Yangmoooo](https://yangmoooo.github.io/), an ordinary university student. You can also call me **杨墨**, nice to meet you. 😊
 
 ## About Me
 
@@ -14,7 +14,7 @@ I am [@6ueh0ey2](https://6ueh0ey2.github.io/), an ordinary university student. Y
   - Anything! I'd love to learn more and I prefer to meet a matching partner actually
 
 <!--
-**pan2ha0yang/pan2ha0yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yangmoooo/yangmoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 ## 🔭 I’m currently working on ...
 ## 💬 Ask me about ...
