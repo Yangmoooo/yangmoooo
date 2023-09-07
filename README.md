@@ -5,11 +5,11 @@ I am [@Yangmoooo](https://yangmoooo.github.io/), an ordinary university student.
 ## About Me
 
 - 🌱 I’m currently learning ...
-  - [Rust Course](https://github.com/sunface/rust-course)
-  - [The Rust Programming Language](https://github.com/rust-lang/book)
-  - [Blog OS](https://github.com/phil-opp/blog_os)
-  - [Python Cookbook](https://github.com/yidao620c/python3-cookbook/)
-  - [AI-Edu](https://github.com/microsoft/ai-edu)
+  - [sunface / rust-course](https://github.com/sunface/rust-course)
+  - [rust-lang / book](https://github.com/rust-lang/book)
+  - [phil-opp / blog_os](https://github.com/phil-opp/blog_os)
+  - [yidao620c / python3-cookbook](https://github.com/yidao620c/python3-cookbook/)
+  - [microsoft / ai-edu](https://github.com/microsoft/ai-edu)
 - 🤔 I’m looking for help with ...
   - How to use Rust to build my own OS on Raspberry Pi 4B
   - The structure of models regarding the machine learning
