@@ -5,10 +5,14 @@ I am [@Yangmoooo](https://yangmoooo.github.io/), an ordinary university student.
 ## About Me
 
 - 🌱 I’m currently learning ...
-  - [microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-  - [microsoft / AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+  - [Rust Course](https://github.com/sunface/rust-course)
+  - [The Rust Programming Language](https://github.com/rust-lang/book)
+  - [Blog OS](https://github.com/phil-opp/blog_os)
+  - [Python Cookbook](https://github.com/yidao620c/python3-cookbook/)
+  - [AI-Edu](https://github.com/microsoft/ai-edu)
 - 🤔 I’m looking for help with ...
-  - The machine learning regarding the structure of models
+  - How to use Rust to build my own OS on Raspberry Pi 4B
+  - The structure of models regarding the machine learning
   - And so on
 - 👯 I’m looking to collaborate on ...
   - Anything! I'd love to learn more and I prefer to meet a matching partner actually
