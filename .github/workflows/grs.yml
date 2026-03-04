@@ -24,7 +24,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=rose&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_REPO_TOKEN }}
 
       - name: Commit cards
         run: |
