@@ -2,7 +2,7 @@
 
 A beginner on a journey to learn programming.
 
-![Top Langs](https://github-readme-stats-yangmoooo.vercel.app/api/top-langs/?username=yangmoooo&theme=rose&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&layout=compact)
+![Top Langs](./profile/top-langs.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yangmoooo/yangmoooo/output/github-snake-dark.svg">
